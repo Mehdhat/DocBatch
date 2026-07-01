@@ -1,0 +1,6 @@
+{
+  "name": "Image and PDF to Docx Converter",
+  "description": "Upload multiple images or PDF files and convert them to professionally styled, fully editable Word (.docx) documents in a single click using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
